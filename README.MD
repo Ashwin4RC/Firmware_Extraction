@@ -45,7 +45,7 @@ Basically, the goal is to obtain a mountable image file from different file form
 For example, to mount a image with name system.img:
 
 	mkdir system
-	sudo mount system.img system/
+	sudo mount system.img /system
 
 For further information on this, [google it](https://www.google.com/search?q=how+to+mount+img+in+linux).
 
